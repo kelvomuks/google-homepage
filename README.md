@@ -1,0 +1,2 @@
+This is my google home page simple but challeging.
+I seem to have a problem fitting it to the display pane,but the placement of components worked well.Right footer is not visible still working on that.
